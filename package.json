@@ -1,9 +1,9 @@
 {
   "name": "back-home-safe",
-  "version": "1.3.0",
+  "version": "1.4.1-uno",
   "private": true,
-  "homepage": "./",
-  "repository": "gitlab:codogo-b/back-home-safe",
+  "homepage": "http://jamiehoszeyui.github.io/leavehomesafe",
+  "repository": "https://github.com/JamieHoSzeYui/back-home-safe",
   "dependencies": {
     "@brainhubeu/react-carousel": "^2.0.3",
     "@material-ui/core": "^4.11.4",
@@ -44,6 +44,8 @@
     "lint:js": "eslint .",
     "tsc": "tsc",
     "postinstall": "husky install",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "release": "standard-version --message 'chore(release): %s\n\n[skip ci]' --no-verify"
   },
   "eslintConfig": {
