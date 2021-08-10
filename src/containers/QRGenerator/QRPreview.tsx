@@ -6,7 +6,7 @@ import cross from "../../assets/cross.svg";
 import { EnhancedEncodeParam, qrEncode } from "../../utils/qr";
 import styled from "styled-components";
 import QrCodeWithLogo from "qrcode-with-logos";
-import baseIcon from "../../assets/baseIcon.png";
+import realIcon from "../../assets/realIcon.png";
 
 type Props = {
   data: EnhancedEncodeParam;
@@ -26,7 +26,7 @@ export const QRPreview = ({ data, onLeave }: Props) => {
       content: encodedString,
       width: 380,
       logo: {
-        src: data.customImg || baseIcon,
+        src: data.customImg || realIcon,
         logoRadius: 8,
         borderSize: 0,
       },

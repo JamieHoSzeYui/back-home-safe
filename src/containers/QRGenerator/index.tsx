@@ -13,7 +13,7 @@ import { useTranslation } from "react-i18next";
 import { useSetState } from "react-use";
 import styled from "styled-components";
 
-import baseIcon from "../../assets/baseIcon.png";
+import realIcon from "../../assets/realIcon.png";
 import { Header } from "../../components/Header";
 import { EnhancedEncodeParam, qrEncode } from "../../utils/qr";
 import { QRPreview } from "./QRPreview";
@@ -52,7 +52,7 @@ const QRGenerator = () => {
       content: encodedString,
       width: 380,
       logo: {
-        src: state.customImg || baseIcon,
+        src: state.customImg || realIcon,
         logoRadius: 8,
         borderSize: 0,
       },
