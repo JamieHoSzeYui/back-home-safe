@@ -199,7 +199,7 @@ export const Settings = () => {
             </ListItem>
           </StyledLink>
           <StyledExternalLink
-            href="https://gitlab.com/codogo-b/back-home-safe/-/blob/master/CHANGELOG.md"
+            href="https://github.com/JamieHoSzeYui/back-home-safe/blob/develop/CHANGELOG.md"
             target="_blank"
           >
             <ListItem button>
@@ -207,7 +207,7 @@ export const Settings = () => {
             </ListItem>
           </StyledExternalLink>
           <StyledExternalLink
-            href="https://gitlab.com/codogo-b/back-home-safe/-/issues"
+            href="https://github.com/JamieHoSzeYui/back-home-safe/issues"
             target="_blank"
           >
             <ListItem button>
