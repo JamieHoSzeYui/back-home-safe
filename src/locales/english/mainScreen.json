@@ -5,12 +5,12 @@
     "you_have_entered": "You have entered",
     "form": {
       "venue_name": {
-        "label": "I want to go",
+        "label": "Go to",
         "placeholder": "Venue Name"
       },
       "taxi": {
         "label": "I'm taking",
-        "placeholder": "Taxi Reg Mark"
+        "placeholder": "Taxi License Plate"
       }
     },
     "button": {
