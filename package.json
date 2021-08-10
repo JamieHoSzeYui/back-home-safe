@@ -2,7 +2,7 @@
   "name": "back-home-safe",
   "version": "1.4.1-uno",
   "private": true,
-  "homepage": "http://jamiehoszeyui.github.io/leavehomesafe",
+  "homepage": "https://jamiehoszeyui.github.io/back-home-safe/",
   "repository": "https://github.com/JamieHoSzeYui/back-home-safe",
   "dependencies": {
     "@brainhubeu/react-carousel": "^2.0.3",
