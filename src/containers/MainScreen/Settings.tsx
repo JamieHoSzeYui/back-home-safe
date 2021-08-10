@@ -186,7 +186,7 @@ export const Settings = () => {
           }
         >
           <StyledExternalLink
-            href="https://gitlab.com/codogo-b/back-home-safe"
+            href="https://github.com/JamieHoSzeYui/back-home-safe"
             target="_blank"
           >
             <ListItem button>
