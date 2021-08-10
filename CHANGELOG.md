@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.1](https://github.com/JamieHoSzeYui/back-home-safe/compare/v1.4.0...1.4.1)(2021-08-10)
+* initial fork
+* improve strings [9741e49](https://github.com/JamieHoSzeYui/back-home-safe/commit/9741e49dac7d754d190febc6d1e8963804a7e40c) [8fe7156](https://github.com/JamieHoSzeYui/back-home-safe/commit/8fe7156d21a838f8e9fc055f031c6d07051f393a)
+* use source instead of aboutus [9a5773b](https://github.com/JamieHoSzeYui/back-home-safe/commit/9a5773b1a75db27d328e59010ef012ffe1e5ec17)
+* name advanced a new category in settings and create a dummy category for version  [177684d](https://github.com/JamieHoSzeYui/back-home-safe/commit/177684da9fea4ab3ed06a65377025d07f17106dc)
+
 ## [1.3.0](https://gitlab.com/codogo-b/back-home-safe/compare/v1.2.0...v1.3.0) (2021-05-15)
 
 
