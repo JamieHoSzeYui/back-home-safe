@@ -32,7 +32,8 @@
     "section": {
       "common": "Common",
       "lab": "Lab",
-      "version": "Version"
+      "version": "Version",
+      "advanced": "Advanced"
     },
     "item": {
       "camera_setting": "Camera Settings",

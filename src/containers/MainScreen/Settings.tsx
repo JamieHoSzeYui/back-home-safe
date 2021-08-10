@@ -181,7 +181,7 @@ export const Settings = () => {
         <StyledList
           subheader={
             <ListSubheader>
-              {t("setting.section.version")}: {packageJson.version}
+              {t("setting.section.advanced")}
             </ListSubheader>
           }
         >
@@ -214,6 +214,14 @@ export const Settings = () => {
               <ListItemText primary={t("setting.item.report_issue")} />
             </ListItem>
           </StyledExternalLink>
+        </StyledList>
+        <StyledList
+          subheader={
+            <ListSubheader>
+              {t("setting.section.version")}: {packageJson.version}
+            </ListSubheader>
+          }
+        >
         </StyledList>
       </ContentWrapper>
     </PageWrapper>
