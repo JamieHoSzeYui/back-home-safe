@@ -190,7 +190,7 @@ export const Settings = () => {
             target="_blank"
           >
             <ListItem button>
-              <ListItemText primary={t("setting.item.about_us")} />
+              <ListItemText primary={t("setting.item.source")} />
             </ListItem>
           </StyledExternalLink>
           <StyledLink to="/disclaimer">
