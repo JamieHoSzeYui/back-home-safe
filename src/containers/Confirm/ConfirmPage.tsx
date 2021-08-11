@@ -32,7 +32,7 @@ export const ConfirmPage = ({
   confirmPageIcon,
   autoLeave = true,
   setAutoLeave,
-  autoLeaveHour = 4,
+  autoLeaveHour = 1,
   handleChangeAutoLeaveHour,
   handleLeave,
 }: Props) => {
