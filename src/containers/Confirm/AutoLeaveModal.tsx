@@ -72,6 +72,8 @@ export const AutoLeaveModal = ({
       <HourListWrapper id="scroll">
         <HourList>
           {[
+            0.5,
+            0.75,
             1,
             2,
             3,
